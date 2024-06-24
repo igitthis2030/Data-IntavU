@@ -1,9 +1,9 @@
 {
-    "name": "php/web-php",
-    "description": "The www.php.net site.",
+    "name": "php/ai-networth",
+    "description": "www.ainetworth.co.za",
     "license": "proprietary",
     "type": "project",
-    "homepage": "https://www.php.net/",
+    "homepage": "https://www.ainetworth.co.za/",
     "support": {
         "source": "https://github.com/php/web-php"
     },
@@ -11,7 +11,7 @@
         "php": "~8.2.0"
     },
     "require-dev": {
-        "ext-curl": "*",
+        "ext-curl": "http_response_header",
         "friendsofphp/php-cs-fixer": "^3.59.3",
         "phpunit/phpunit": "^11.2.2"
     },
